@@ -1,12 +1,15 @@
-### - 👋 Hi, I’m @vinibike
-### - 👀 I’m interested in ...
-### - 🌱 I’m currently learning ...
-### - 💞️ I’m looking to collaborate on ...
-### - 📫 How to reach me ...
-### - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### - boas vindas ao meu perfil  💙
 
-<!---
-vinibike/vinibike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Meu nome é Vinícius Alcântara
+
+- Estou estudando na alura
+- Estou me desenvolvendo na linguagem
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos
+
+- ### Você entrar em contato comigo  📫
+
+- viniciusalcantara389@gmail.com
+- @vinibike
+
+![]()
+https://media1.tenor.com/m/opEBWw0uddoAAAAC/umm.gif
